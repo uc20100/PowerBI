@@ -98,5 +98,10 @@ https://docs.google.com/spreadsheets/d/1vev2uOhVs4PS7vMxLRWi9DocrlWGSj8I/edit#gi
 10) Суммы, обороты, стоимости подписаны  – ХХХ, руб.
 11) Кнопки работают, ненужных кнопок нет
 
+    *Ссылки на отчет в Internet:*  
+    <code>[Анализ конверсии и продаж](https://app.powerbi.com/view?r=eyJrIjoiM2I0MmQ2OTUtZGQzYy00MDZiLTgzMjItYzhjNDAzNzEwOGYyIiwidCI6IjBlNjFkNTA3LTgyYzEtNGJlZC05ODg2LTUxZmE1ZjBkNDQ0MCIsImMiOjl9 "Конверсии и продажи")
+    </code>  
+
+
 
 
